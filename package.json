@@ -1,0 +1,29 @@
+{
+  "name": "telekit-session",
+  "version": "0.1.0",
+  "description": "A user session for Telekit",
+  "main": "index.js",
+  "author": "Denis Maslennikov <mrdenniska@gmail.com> (nofach.com)",
+  "license": "MIT",
+  "homepage": "https://telekits.js.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telekits/telekit-session.git"
+  },
+  "bugs": {
+    "url": "https://github.com/telekits/telekit-session/issues"
+  },
+  "keywords": [
+    "middleware",
+    "in-memory",
+    "telegram",
+    "telekit",
+    "session",
+    "useful",
+    "tools",
+    "kit"
+  ],
+  "peerDependencies": {
+    "telekit": "^0.1.2"
+  }
+}
