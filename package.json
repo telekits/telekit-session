@@ -1,6 +1,6 @@
 {
   "name": "telekit-session",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A user session for Telekit",
   "main": "index.js",
   "author": "Denis Maslennikov <mrdenniska@gmail.com> (nofach.com)",
