@@ -24,6 +24,6 @@
     "kit"
   ],
   "peerDependencies": {
-    "telekit": "^0.1.2"
+    "telekit": "^0.2.0"
   }
 }
